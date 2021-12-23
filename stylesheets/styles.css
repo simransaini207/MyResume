@@ -1,0 +1,95 @@
+/* Navigation bar css */
+
+#title {
+    background-color: #EC255A;
+    color: #FAEDF0;
+    padding: 2%;
+}
+
+.navbar-brand {
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar-nav {
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+
+
+/* dp css */
+
+.picture {
+    text-align: center;
+    font-family: 'Creepster', cursive;
+    font-size: 300%;
+    color: #292C6D;
+}
+
+.mydp {
+    margin: 2% 0% 2%;
+    padding: 0%;
+    width: 60%;
+    border-radius: 40%;
+}
+
+
+/* about me */
+
+.about-me {
+    background-color: #161853;
+    color: #FAEDF0;
+    margin: 0%;
+    padding: 5% 0 2%;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 400%;
+}
+
+.about-me-details {
+    background-color: #161853;
+    color: #FAEDF0;
+    padding: 5% 0% 5% 0%;
+    margin: 0%;
+    text-align: center;
+    font-size: 110%;
+    font-family: 'Varela Round', sans-serif;
+}
+
+
+/* .card {
+    width: 20%;
+} */
+
+#skills {
+    text-align: center;
+    margin: 5% 2%;
+    font-family: 'Raleway', sans-serif;
+    color: #292C6D;
+}
+
+.skills-column {
+    padding: 5%;
+}
+
+@media only screen and (max-width: 786px) {
+    .skills-column {
+        padding: 5% 15% 2% 15%;
+    }
+}
+
+#bottom-container {
+    background-color: #EC255A;
+    color: #FAEDF0;
+    padding: 2%;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+
+button {
+    margin: 2%;
+}
+
+
+/* font-family: 'Raleway', sans-serif;
+font-family: 'Varela Round', sans-serif; 
+font-family: 'Creepster', cursive; */
